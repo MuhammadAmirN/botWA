@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.4.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
